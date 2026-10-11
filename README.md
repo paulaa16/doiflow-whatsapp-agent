@@ -6,9 +6,7 @@ A WhatsApp assistant for small tourism businesses. It answers availability quest
 
 ## Demo
 
-
-https://github.com/user-attachments/assets/280a9da4-be38-4f8e-b948-e732bb89bd50
-
+https://github.com/user-attachments/assets/1fd43b20-d429-40b0-89f9-5398d9a30d42
 
 ## How it works
 
